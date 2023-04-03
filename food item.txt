@@ -1,0 +1,3 @@
+item|price
+chiken biryani|120
+halwa |190
